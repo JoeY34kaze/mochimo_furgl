@@ -2,7 +2,7 @@
 ##usage
 ## curl -sSL https://raw.githubusercontent.com/JoeY34kaze/mochimo/master/awsStart.sh | bash 
 ## A.B. 2018
-git clone https://github.com/JoeY34kaze/mochimo
+git clone https://github.com/JoeY34kaze/mochimo_furgl
 chmod -R a+rwx mochimo
 
 cat << EOF > ~/runminer.sh
